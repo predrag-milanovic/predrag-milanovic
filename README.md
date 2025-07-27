@@ -4,12 +4,12 @@
 
 ### 🔥 About Me
 
-- 🎓 **Education**:
-  - **Bachelor of Engineering, Thermoenergetics - 180 ECTS**, [Faculty of Mechanical Engineering of the University of Banja Luka](https://mf.unibl.org/), 2021
-  - Studying for a **Master's degree in Business Informatics – IT Engineering** at [Faculty of Information Technologies, Pan-European University "Apeiron"](https://apeiron-uni.eu/en/master-studije/fakultet-informacionih-tehnologija-master-studije/), present
+#### 🎓 **Education**:
+- **Bachelor of Engineering, Thermoenergetics - 180 ECTS**, [Faculty of Mechanical Engineering of the University of Banja Luka](https://mf.unibl.org/), 2021
+- Studying for a **Master's degree in Business Informatics – IT Engineering** at [Faculty of Information Technologies, Pan-European University "Apeiron"](https://apeiron-uni.eu/en/master-studije/fakultet-informacionih-tehnologija-master-studije/), present
 
-- 🏗️ **Working at**:
-  - [Europa-Park Erlebnis-Resort](https://www.europapark.de/de)
+#### 🏗️ **Working at**:
+- [Europa-Park Erlebnis-Resort](https://www.europapark.de/de)
 
 ### 💼 Skills
 
@@ -39,7 +39,7 @@
 
 ### 📂 Featured CAD Projects
 For those interested in CAD modeling (outside of coding), here are some of my favorite projects that I’m proud to share:
-- 🚧 [GrabCAD](https://grabcad.com/predrag.milanovic-3) Work in Progress! 🚧
+- 🚧 [GrabCAD](https://grabcad.com/predrag.milanovic-3) (Work in Progress!) 🚧
 
 ---
 
