@@ -2,8 +2,6 @@
 
 🛠️ Mechanical Engineer | Expert in Amusement Park Ride Maintenance & Optimization | PLC Programming & SCADA | Troubleshooting & Safety | Energy Systems Engineering & Efficiency
 
----
-
 ### 🔥 About Me
 
 - 🎓 **Education**:
@@ -31,13 +29,19 @@
 - 🐳 **Docker**  
   Knowledgeable in containerization for consistent development and deployment environments.
 
+---
+
 ### 📈 GitHub Stats
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=predrag-milanovic&show_icons=true&theme=radical)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=predrag-milanovic&layout=compact&theme=radical)
 
+---
+
 ### 📂 Featured CAD Projects
 For those interested in CAD modeling (outside of coding), here are some of my favorite projects that I’m proud to share:
 - 🚧 [GrabCAD](https://grabcad.com/predrag.milanovic-3) Work in Progress! 🚧
+
+---
 
 ### 🌐 Reach out 
 - 👔 [LinkedIn](https://www.linkedin.com/in/predrag-milanovic/)
